@@ -6,7 +6,7 @@ import ProjectsPage from "./pages/ProjectsPage";
 function App() {
     const router = createBrowserRouter([
         {
-            path: "",
+            path: "/",
             element: <Layout />,
             children: [
                 { index: true, element: <HomePage /> },
