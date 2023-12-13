@@ -9,7 +9,7 @@ function App() {
             path: "",
             element: <Layout />,
             children: [
-                { path: "home", element: <HomePage /> },
+                { index: true, element: <HomePage /> },
                 { path: "projects", element: <ProjectsPage /> },
                 { path: "aboutme", element: <h1>About Me</h1> },
             ],

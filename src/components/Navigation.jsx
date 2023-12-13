@@ -5,7 +5,7 @@ function Navigation() {
         <nav className="w-2/3 m-auto">
             <ul className="flex justify-around mt-10">
                 <NavLink
-                    to="/home"
+                    to=""
                     className={({ isActive }) =>
                         isActive ? "text-amber-600" : ""
                     }

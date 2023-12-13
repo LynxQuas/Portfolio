@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 function Project({ project }) {
-    console.log(project);
     return (
         <div className="flex flex-col p-10 md:px-20 gap-5">
             <h1 className="text-xl font-bold">{project.title}</h1>
