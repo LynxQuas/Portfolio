@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "title": "Finance",
+        "description": "Real-time stocks, seamless transactions—Finance app for informed, efficient financial management.",
+        "language": ["Python", "Flask"],
+        "github": "https://github.com/LynxQuas/finance",
+        "demolink": ""
+    },
+    {
+        "id": 2,
+        "title": "Auction",
+        "description": "Auction House Wizard: Engage in bidding, list your items for auction, leave comments, and utilize filters for a seamless user experience.",
+        "language": ["Python", "Django"],
+        "github": "https://github.com/LynxQuas/Auction",
+        "demolink": ""
+    },
+    {
+        "id": 3,
+        "title": "Mail",
+        "description": "Single Page App for full-stack mail management, featuring user authentication (login, logout, register) and essential email functions (compose, reply, archive).",
+        "language": ["JavaScript", "Python", "Django"],
+        "github": "https://github.com/LynxQuas/Mail",
+        "demolink": ""
+    },
+    {
+        "id": 4,
+        "title": "Encyclopeida",
+        "description": "In Encyclopedia user can create page with markup text and they can read about articles.",
+        "language": ["Python", "Django"],
+        "github": "https://github.com/LynxQuas/Encyclopedia",
+        "demolink": ""
+    },
+
+    {
+        "id": 5,
+        "title": "Tale-Twist",
+        "description": "Tale-Twist boasts features such as post creation, deletion, and editing, alongside user-friendly options like commenting, editing comments, logging in, registering, creating accounts, and profile management.",
+        "language": ["React", "Json-server"],
+        "github": "https://github.com/LynxQuas/Tale-Twist",
+        "demolink": ""
+    }
+]
