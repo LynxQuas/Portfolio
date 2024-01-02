@@ -23,16 +23,6 @@ function Navigation() {
                 >
                     <li>Projects</li>
                 </NavLink>
-
-                <NavLink
-                    to="/aboutme"
-                    className={({ isActive }) =>
-                        isActive ? "text-amber-600" : ""
-                    }
-                    end
-                >
-                    <li>About Me</li>
-                </NavLink>
             </ul>
         </nav>
     );
